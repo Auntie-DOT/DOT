@@ -1,5 +1,5 @@
-# DOT 
-DOT main repo
+# Auntie DOT 
+*DOT main repo*
 
 ## What is it?
 Auntie DOT, an Artificial Intelligence with Machine Learning models. It is an AI that adapts to your ecosystem, the more you use it, the more it will know how to 
