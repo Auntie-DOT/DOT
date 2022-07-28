@@ -16,7 +16,7 @@ import pyaudio
 import threading
 
 
-voice_model = load_model('D:/DOT/Voiceclassification/voiceclassify2.model')
+voice_model = load_model('voiceclassify2.model')
 classes = ['other', 'Bernardo']
 
 CHUNKSIZE = 1024
